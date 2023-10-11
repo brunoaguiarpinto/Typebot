@@ -1,2 +1,2 @@
-FROM baptistearno/typebot-builder:2.18.1
+FROM baptistearno/typebot-builder:lastest
 EXPOSE 8080
